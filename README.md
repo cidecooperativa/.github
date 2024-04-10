@@ -1,39 +1,31 @@
-# Benvinguts al CIDE
+# Repositori del Profile README per al CIDE
 
-## Qui Som?
+Aquest repositori conté el fitxer `README.md` que serveix com a perfil públic de GitHub per al CIDE. Aquí, mantenim i actualitzem el contingut que es mostra al perfil de GitHub de la nostra escola.
 
-El Centre Internacional de Desenvolupament Educatiu (CIDE) és una institució líder en educació situada a Palma, compromesa a oferir una educació de qualitat des de 1966. La nostra missió és formar estudiants preparats, responsables i capaços de contribuir positivament a la societat.
+## Estructura del Repositori
 
-## Què Oferim?
+- `README.md`: El fitxer principal que s'utilitza com a perfil públic per a mostrar informació general sobre el CIDE, els seus programes, i els seus projectes destacats.
 
-Al CIDE, oferim una àmplia gamma de programes educatius que inclouen:
+## Com Utilitzar Aquest Repositori
 
-- Educació Infantil
-- Educació Primària
-- Educació Secundària
-- Batxillerat
-- Programes de Formació Professional
+Pots utilitzar aquest repositori per familiaritzar-te amb la manera en què presentem el CIDE al món digital. Si ets membre del personal o un estudiant que vol contribuir, segueix els passos següents:
 
-Amb instal·lacions de primera categoria i un enfocament pedagògic basat en l'aprenentatge pràctic i interdisciplinari, garantim una experiència educativa completa i enriquidora.
+### Passos per a Contribuir
 
-## Connecta Amb Nosaltres
+1. **Fes Fork del Repositori**: Inicia fent un 'fork' del repositori per tenir una còpia en el teu compte de GitHub.
+2. **Realitza els teus canvis**: Afegeix o modifica el contingut que creus que pot millorar la presentació del CIDE.
+3. **Envia una Pull Request (PR)**: Un cop hagis acabat les teves modificacions, envia una PR perquè els canvis siguin revisats i, si són apropiats, integrats al repositori principal.
 
-- **Web:** [cide.es](https://cide.es)
-- **Telèfon:** [971 60 64 99](tel:+34971606499)
-- **Email:** [cide@cide.es](mailto:cide@cide.es)
-- **Adreça:** [Carrer de l'Arner, 3, Ponent, 07013 Palma, Illes Balears](https://maps.app.goo.gl/BM7sm9iCBzekUGYu5)
+## Normes de Contribució
 
-Segueix-nos a les nostres xarxes socials:
-- [Twitter](https://twitter.com/cidecooperativa)
-- [Facebook](https://www.facebook.com/cidecooperativa/)
-- [Instagram](https://www.instagram.com/cide.cooperativa/)
-- [LinkedIn](https://www.linkedin.com/company/cide-cooperativa/)
-- [YouTube](https://www.youtube.com/@cidecooperativa)
+- Assegura't que els canvis reflecteixen accuradament la missió i els valors del CIDE.
+- Utilitza un llenguatge clar i professional.
+- Revisa la gramàtica i l'ortografia abans de submitir qualsevol canvi.
 
-## Com Contribuir
+## Contacte
 
-Estem oberts a col·laboracions amb individus i organitzacions que comparteixin la nostra visió educativa. Si estàs interessat en contribuir al nostre projecte, per favor contacta amb nosaltres a [cide@cide.es](mailto:cide@cide.es).
+Per a més informació o suport, contacta amb els autors o visita la nostra web a [cide.es](https://cide.es).
 
 ---
 
-Agraïm el teu interès en el CIDE. Junts, podem fer una diferència significativa en l'educació. #EducarPerInnovar
+Gràcies per contribuir al perfil de GitHub del CIDE. Junts, ampliem la presència digital de la nostra escola!
